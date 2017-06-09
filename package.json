@@ -1,0 +1,27 @@
+{
+  "name": "Element Dragger",
+  "description": "Scrool element with click or touch drag",
+  "main": [
+    "elementDragger.js"
+  ],
+  "keywords": [
+    "drag",
+    "scroll",
+    "Pointer Events",
+    "Touch Events",
+    "Touch",
+    "Mouse",
+    "Move",
+  ],
+  "authors": [
+    "İlker YILMAZ <quantalquasar@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
